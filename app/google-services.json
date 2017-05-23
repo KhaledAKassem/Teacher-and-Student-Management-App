@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "382066326217",
+    "firebase_url": "https://electronic-assignment-9112e.firebaseio.com",
+    "project_id": "electronic-assignment-9112e",
+    "storage_bucket": "electronic-assignment-9112e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382066326217:android:0c4c218eba22002c",
+        "android_client_info": {
+          "package_name": "medic.esy.es"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382066326217-brdit689ecvvgauog8e2tlir7e9qn0ug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLSn1KMLDDmHVyDThWkAtMJLT2Tz1y5Sw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Electronic Assignment</string>
+    <string name="action_settings">Log Out</string>
+    <string name="title_activity_add_course">AddCourse</string>
+    <string name="title_activity_update_course">UpdateCourse</string>
+    <string name="title_activity_delete_course">DeleteCourse</string>
+    <string name="welcome_to_electronic_assignment">Welcome to Electronic Assignment</string>
+    <string name="be_connected_with_your_teachers">Be connected with Your Teachers</string>
+    <string name="teacher">Teacher</string>
+    <string name="student">Student</string>
+    <string name="doctor_name">Doctor Name</string>
+</resources>

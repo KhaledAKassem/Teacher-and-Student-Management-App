@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/khaled/Desktop/my projects/University UI KIT/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="29e4e634375ab2ed25f8db5387b564c78980422a">
+        <dex dex="/home/khaled/Desktop/my projects/University UI KIT/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-10.2.4_4428a639240facf474712ca4b50993b810b22f68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/khaled/Desktop/my projects/University UI KIT/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="cb86970df0f0f25f766d320b279c7858c1ca0003">
+        <dex dex="/home/khaled/Desktop/my projects/University UI KIT/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.2.1_c655d014d34dbd523261a1e64fd1c33ca391e8c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/khaled/Desktop/my projects/University UI KIT/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/home/khaled/Desktop/my projects/University UI KIT/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_176bf1d656f5c88b1825f89b65d68ecf6e7ba562.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/khaled/Desktop/my projects/University UI KIT/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="/home/khaled/Desktop/my projects/University UI KIT/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.0.1_759a888b59b88323808af9234e9f864de4771a0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/khaled/Desktop/my projects/University UI KIT/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="54933c89f90a872aa342004e82b23e776fe12736">
+        <dex dex="/home/khaled/Desktop/my projects/University UI KIT/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-10.2.4_798d534262d4de4ba85952a56c0cc65c323fca0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/khaled/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-jvm/2.4.0/558e074f136fee609b8758480ecd00e286595137/firebase-client-jvm-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="558e074f136fee609b8758480ecd00e286595137">
+        <dex dex="/home/khaled/Desktop/my projects/University UI KIT/app/build/intermediates/pre-dexed/debug/firebase-client-jvm-2.4.0_d3b265eecb2ba3a3552f1eee3c77d56c2a2c7dc8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/khaled/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.2.2/285cb9c666f0f0f3dd8a1be04e1f457eb7b15113/jackson-annotations-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="/home/khaled/Desktop/my projects/University UI KIT/app/build/intermediates/pre-dexed/debug/jackson-annotations-2.2.2_efa5b32dc8aabae52fe363d8165876de91f5509e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/khaled/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/home/khaled/Desktop/my projects/University UI KIT/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_2a09b9b4c482b00bddcbd4e8f4e5e86ef5cb339b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/khaled/Desktop/my projects/University UI KIT/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/1.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4b868b833b0887aa48c4e581558eef4f1196f6a2">
+        <dex dex="/home/khaled/Desktop/my projects/University UI KIT/app/build/intermediates/pre-dexed/debug/de.hdodenhof-circleimageview-1.2.1_aae7b6918fa20894cfedd8662e80709f2828f51a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/khaled/Desktop/my projects/University UI KIT/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5803db663655ef5cb38c6bcb17ba326fdb9edfbd">
+        <dex dex="/home/khaled/Desktop/my projects/University UI KIT/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.2.4_b89ffe3d15402b27bd54d6b57be9925c80b31730.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/khaled/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.2.2/3c8f6018eaa72d43b261181e801e6f8676c16ef6/jackson-databind-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="/home/khaled/Desktop/my projects/University UI KIT/app/build/intermediates/pre-dexed/debug/jackson-databind-2.2.2_bf06e5f93671f894eae23b2ae32dd31e5dd4b78a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/khaled/Desktop/my projects/University UI KIT/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="143e5647b772c08c9f0d807b24bbc0b05ff6c7d2">
+        <dex dex="/home/khaled/Desktop/my projects/University UI KIT/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-10.2.4_724a6ab3dbf6633707e51f5d44136731c569cf6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/khaled/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-android/2.4.0/f00bc767918ad9c89e5c13e25706d033a58e13c2/firebase-client-android-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f00bc767918ad9c89e5c13e25706d033a58e13c2">
+        <dex dex="/home/khaled/Desktop/my projects/University UI KIT/app/build/intermediates/pre-dexed/debug/firebase-client-android-2.4.0_7c65257c7f69222f9dde8cbc041c7b36760f01bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/khaled/Desktop/my projects/University UI KIT/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="43df709c95f6b0501b3adbc7da992b6a69a03214">
+        <dex dex="/home/khaled/Desktop/my projects/University UI KIT/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-10.2.4_23494846540590cf2cab83a2643ec17ebc44cd51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/khaled/Desktop/my projects/University UI KIT/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="/home/khaled/Desktop/my projects/University UI KIT/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.2.1_a0c9cecf6ce86f49b3175211f54b39e70ec613f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/khaled/.gradle/caches/modules-2/files-2.1/com.firebase/tubesock/0.0.12/6ec0bbd3e161a73ed672284b587fd32309a86d7a/tubesock-0.0.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6ec0bbd3e161a73ed672284b587fd32309a86d7a">
+        <dex dex="/home/khaled/Desktop/my projects/University UI KIT/app/build/intermediates/pre-dexed/debug/tubesock-0.0.12_dbb7b70aaaca2ecd3f537fa0cc47983a9c14a40c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/khaled/Desktop/my projects/University UI KIT/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9ed08fab37c3a572da1d9ed2bf2e36c8d3e2bc48">
+        <dex dex="/home/khaled/Desktop/my projects/University UI KIT/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.2.4_88e53d3247efcf0405ae4460dbae527c2b77127e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/khaled/Desktop/my projects/University UI KIT/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8748e15968514ff1708deb3bb7f0c17623e50bbb">
+        <dex dex="/home/khaled/Desktop/my projects/University UI KIT/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-10.2.4_19e0201e2a50cea58d01b4211522ee0ea56ed7db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/khaled/Desktop/my projects/University UI KIT/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="dd1d0d84da2cff18f741c63a9c3af7d9aa89fdd6">
+        <dex dex="/home/khaled/Desktop/my projects/University UI KIT/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.2.4_8466d058025dd8492b700c0ed6e2fdc78e3a1cc5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/khaled/Desktop/my projects/University UI KIT/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="/home/khaled/Desktop/my projects/University UI KIT/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.0_933d917a468538bc0fc1f119c51c62e8890eab23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/khaled/Desktop/my projects/University UI KIT/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/home/khaled/Desktop/my projects/University UI KIT/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_2353815ef2d30db70f8bc69c767205ca90c20d6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/khaled/Desktop/my projects/University UI KIT/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="/home/khaled/Desktop/my projects/University UI KIT/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.0_d3b64874cff69e06abd4da3849d7b497b88dd1fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/khaled/Desktop/my projects/University UI KIT/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6b8ad09b76c4ffaedf443ca54bc2418760870689">
+        <dex dex="/home/khaled/Desktop/my projects/University UI KIT/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-common-10.2.4_974e81d43d9afa37f3ae9d403724f39aeaf96675.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/khaled/Desktop/my projects/University UI KIT/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="98ac18f891a8279ae57c4771cbf4a2a65f95b04c">
+        <dex dex="/home/khaled/Desktop/my projects/University UI KIT/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-10.2.4_fe814172f3345b884a2a593b481bac5b23f8f55a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/khaled/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.2/d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b/jackson-core-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="/home/khaled/Desktop/my projects/University UI KIT/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.2_51d0c05bd10549475e60a906e419bb5e2a960b38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/khaled/Desktop/my projects/University UI KIT/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4eeba61bbc47e49a5fbdfd9aa21af5d10bf4df7c">
+        <dex dex="/home/khaled/Desktop/my projects/University UI KIT/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-10.2.4_53601359fa1d6dc1b12fe661f979a4fd9f814b09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/khaled/Desktop/my projects/University UI KIT/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="/home/khaled/Desktop/my projects/University UI KIT/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.0_0c11e09444932a03790ba0817552dee05ac57c12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/khaled/Desktop/my projects/University UI KIT/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b50fe5288bba9d1635ba619bd3c308319205543e">
+        <dex dex="/home/khaled/Desktop/my projects/University UI KIT/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-10.2.4_7e8274b4b1df6f77ae23158079f18f1db3a23067.jar" />
+    </item>
+
+</items>
